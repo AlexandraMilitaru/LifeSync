@@ -1,0 +1,20 @@
+import prismaClient from "../../prisma/client";
+import RoleRepository from "./role-repository";
+import UserRepository from "./user-repository";
+import AdminRepository from "./admin-repository";
+import EventRepository from "./event-repository";
+import MemberRepository from "./member-repository";
+import CommentRepository from "./comment-repository";
+import CategoryRepository from "./category-repository";
+import PendingMemberRepository from "./pending-member-repository";
+import EventAttendeeRepository from "./event-attendee-repository";
+
+export const roleRepository = new RoleRepository(prismaClient);
+export const userRepository = new UserRepository(prismaClient);
+export const eventRepository = new EventRepository(prismaClient);
+export const adminRepository = new AdminRepository(prismaClient);
+export const memberRepository = new MemberRepository(prismaClient);
+export const commentRepository = new CommentRepository(prismaClient);
+export const categoryRepository = new CategoryRepository(prismaClient);
+export const eventAttendeeRepository = new EventAttendeeRepository(prismaClient);
+export const pendingMemberRepository = new PendingMemberRepository(prismaClient);

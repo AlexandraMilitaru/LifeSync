@@ -1,0 +1,104 @@
+[
+    {
+        "name": "Travel"
+    },
+    {
+        "name": "Exam"
+    },
+    {
+        "name": "Work"
+    },
+    {
+        "name": "Shopping"
+    },
+    {
+        "name": "Hospital"
+    },
+    {
+        "name": "Meeting"
+    },
+    {
+        "name": "Birthday"
+    },
+    {
+        "name": "Anniversary"
+    },
+    {
+        "name": "Party"
+    },
+    {
+        "name": "Volunteer"
+    },
+    {
+        "name": "Teambuilding"
+    },
+    {
+        "name": "Training"
+    },
+    {
+        "name": "Seminar"
+    },
+    {
+        "name": "Course"
+    },
+    {
+        "name": "Conference"
+    },
+    {
+        "name": "Webinar"
+    },
+    {
+        "name": "Wedding"
+    },
+    {
+        "name": "Engagement"
+    },
+    {
+        "name": "Reception"
+    },
+    {
+        "name": "Ceremony"
+    },
+    {
+        "name": "Reunion"
+    },
+    {
+        "name": "Festival"
+    },
+    {
+        "name": "Concert"
+    },
+    {
+        "name": "Show"
+    },
+    {
+        "name": "Exhibition"
+    },
+    {
+        "name": "Fair"
+    },
+    {
+        "name": "Market"
+    },
+    {
+        "name": "Flea Market"
+    },
+    {
+        "name": "Carnival"
+    },
+    {
+        "name": "Parade"
+    },
+    {
+        "name": "Sport"
+    },
+    {
+        "name": "Game"
+    },
+    {
+        "name": "Match"
+    },
+    {
+        "name": "Tournament"
+    }
+]
